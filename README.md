@@ -40,7 +40,7 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 ## Ferramentas utilizadas
 
 - ``Java``
-- ``IDE Eclipse``
+- ``IDE VS Code``
 
 
 ## Desenvolvedora
