@@ -26,12 +26,7 @@ public class ContaTerminal {
 
 
         conta.close();
-       //TODO: Conhecer e importar a classa Scanner
-       //TODO: Exibir as mensagens para o nosso usuario
-       //TODO: Obter pela scanner os valores digitados no terminal 
-       //TODO: Exibir a mensagem da conta 
-
-       //https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
+       
     }
 }
 
